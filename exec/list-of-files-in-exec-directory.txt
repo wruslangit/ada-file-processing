@@ -1,0 +1,7 @@
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-file-processing/exec$ ls -al
+total 92
+drwxrwxr-x 2 wruslan wruslan  4096 Dec 21 21:13 .
+drwxrwxr-x 8 wruslan wruslan  4096 Dec 21 12:33 ..
+-rwxrwxr-x 1 wruslan wruslan 83904 Dec 21 21:13 main_ada_fprocessing.xxx
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-file-processing/exec$ 
+

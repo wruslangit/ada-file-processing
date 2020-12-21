@@ -1,0 +1,85 @@
+2020-12-21 10:30:36.86234120880 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 10:30:36.86234122630 Everything after this will be written to the_fhandle2.
+2020-12-21 10:30:36.86234123638 Bismillah 3 times WRY.
+2020-12-21 10:30:36.86234124589 This is inside the file.
+2020-12-21 10:30:36.86234125750 Alhamdulillah 3 times WRY.
+2020-12-21 10:30:36.86234126535 Run ATIO.Close (the_fhandle2);
+2020-12-21 10:43:23.38750450264 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 10:43:23.38750451353 Everything after this will be written to the_fhandle2.
+2020-12-21 10:43:23.38750452169 Bismillah 3 times WRY.
+2020-12-21 10:43:23.38750452915 This is inside the file.
+2020-12-21 10:43:23.38750453906 Alhamdulillah 3 times WRY.
+2020-12-21 10:43:23.38750454811 Run ATIO.Close (the_fhandle2);
+2020-12-21 10:51:02.77139880532 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 10:51:02.77139881626 Everything after this will be written to the_fhandle2.
+2020-12-21 10:51:02.77139882409 Bismillah 3 times WRY.
+2020-12-21 10:51:02.77139883150 This is inside the file.
+2020-12-21 10:51:02.77139883896 Alhamdulillah 3 times WRY.
+2020-12-21 10:51:02.77139884675 Run ATIO.Close (the_fhandle2);
+2020-12-21 10:52:24.53902126316 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 10:52:24.53902127596 Everything after this will be written to the_fhandle2.
+2020-12-21 10:52:24.53902128402 Bismillah 3 times WRY.
+2020-12-21 10:52:24.53902129352 This is inside the file.
+2020-12-21 10:52:24.53902130094 Alhamdulillah 3 times WRY.
+2020-12-21 10:52:24.53902130899 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:03:27.73101060881 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:03:27.73101061906 Everything after this will be written to the_fhandle2.
+2020-12-21 11:03:27.73101062715 Bismillah 3 times WRY.
+2020-12-21 11:03:27.73101063535 This is inside the file.
+2020-12-21 11:03:27.73101064430 Alhamdulillah 3 times WRY.
+2020-12-21 11:03:27.73101065319 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:26:22.72092121163 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:26:22.72092122370 Everything after this will be written to the_fhandle2.
+2020-12-21 11:26:22.72092123168 Bismillah 3 times WRY.
+2020-12-21 11:26:22.72092123587 This is inside the file.
+2020-12-21 11:26:22.72092123978 Alhamdulillah 3 times WRY.
+2020-12-21 11:26:22.72092124413 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:28:14.91283612725 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:28:14.91283614855 Everything after this will be written to the_fhandle2.
+2020-12-21 11:28:14.91283616394 Bismillah 3 times WRY.
+2020-12-21 11:28:14.91283617483 This is inside the file.
+2020-12-21 11:28:14.91283619112 Alhamdulillah 3 times WRY.
+2020-12-21 11:28:14.91283620054 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:31:10.65017642267 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:31:10.65017643237 Everything after this will be written to the_fhandle2.
+2020-12-21 11:31:10.65017643903 Bismillah 3 times WRY.
+2020-12-21 11:31:10.65017644559 This is inside the file.
+2020-12-21 11:31:10.65017645276 Alhamdulillah 3 times WRY.
+2020-12-21 11:31:10.65017646014 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:34:18.56930965289 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:34:18.56930966365 Everything after this will be written to the_fhandle2.
+2020-12-21 11:34:18.56930967066 Bismillah 3 times WRY.
+2020-12-21 11:34:18.56930967747 This is inside the file.
+2020-12-21 11:34:18.56930968413 Alhamdulillah 3 times WRY.
+2020-12-21 11:34:18.56930969204 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:47:11.30674141314 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:47:11.30674142489 Everything after this will be written to the_fhandle2.
+2020-12-21 11:47:11.30674143283 Bismillah 3 times WRY.
+2020-12-21 11:47:11.30674144150 This is inside the file.
+2020-12-21 11:47:11.30674144688 Alhamdulillah 3 times WRY.
+2020-12-21 11:47:11.30674145132 Run ATIO.Close (the_fhandle2);
+2020-12-21 11:48:47.84214180241 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 11:48:47.84214181335 Everything after this will be written to the_fhandle2.
+2020-12-21 11:48:47.84214182141 Bismillah 3 times WRY.
+2020-12-21 11:48:47.84214193254 This is inside the file.
+2020-12-21 11:48:47.84214193952 Alhamdulillah 3 times WRY.
+2020-12-21 11:48:47.84214194366 Run ATIO.Close (the_fhandle2);
+2020-12-21 12:03:37.67044040530 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 12:03:37.67044041414 Everything after this will be written to the_fhandle2.
+2020-12-21 12:03:37.67044042049 Bismillah 3 times WRY.
+2020-12-21 12:03:37.67044042648 This is inside the file.
+2020-12-21 12:03:37.67044043236 Alhamdulillah 3 times WRY.
+2020-12-21 12:03:37.67044043923 Run ATIO.Close (the_fhandle2);
+2020-12-21 12:05:58.04412342061 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 12:05:58.04412343202 Everything after this will be written to the_fhandle2.
+2020-12-21 12:05:58.04412344164 Bismillah 3 times WRY.
+2020-12-21 12:05:58.04412344962 This is inside the file.
+2020-12-21 12:05:58.04412345731 Alhamdulillah 3 times WRY.
+2020-12-21 12:05:58.04412346542 Run ATIO.Close (the_fhandle2);
+2020-12-21 13:18:29.88247551643 Run ATIO.Set_Output (the_fhandle2);
+2020-12-21 13:18:29.88247553054 Everything after this will be written to the_fhandle2.
+2020-12-21 13:18:29.88247554344 Bismillah 3 times WRY.
+2020-12-21 13:18:29.88247555211 This is inside the file.
+2020-12-21 13:18:29.88247555802 Alhamdulillah 3 times WRY.
+2020-12-21 13:18:29.88247556387 Run ATIO.Close (the_fhandle2);
+2020-12-21 13:18:29.88247556978 ===================================================================

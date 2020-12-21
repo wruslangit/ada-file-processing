@@ -1,0 +1,28 @@
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-file-processing/obj$ ls -al
+total 216
+drwxrwxr-x 2 wruslan wruslan  4096 Dec 21 21:13 .
+drwxrwxr-x 8 wruslan wruslan  4096 Dec 21 12:33 ..
+-rw-rw-r-- 1 wruslan wruslan 11575 Dec 21 21:13 b__main_ada_fprocessing.adb
+-rw-rw-r-- 1 wruslan wruslan 28736 Dec 21 21:13 b__main_ada_fprocessing.ads
+-rw-rw-r-- 1 wruslan wruslan 13414 Dec 21 21:13 b__main_ada_fprocessing.ali
+-rw-rw-r-- 1 wruslan wruslan 23384 Dec 21 21:13 b__main_ada_fprocessing.o
+-rw-rw-r-- 1 wruslan wruslan   644 Dec 21 12:33 gpr_ada_fprocessing-loc.xml
+-rw-rw-r-- 1 wruslan wruslan  3838 Dec 21 21:08 gpsauto.cgpr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 main_ada_fprocessing.adb.stderr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 main_ada_fprocessing.adb.stdout
+-rw-rw-r-- 1 wruslan wruslan  8977 Dec 21 21:13 main_ada_fprocessing.ali
+-rw-rw-r-- 1 wruslan wruslan   761 Dec 21 21:13 main_ada_fprocessing.bexch
+-rw-rw-r-- 1 wruslan wruslan    45 Dec 21 21:13 main_ada_fprocessing.cswi
+-rw-rw-r-- 1 wruslan wruslan 23184 Dec 21 21:13 main_ada_fprocessing.o
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 pkg_ada_dtstamp.adb.stderr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 pkg_ada_dtstamp.adb.stdout
+-rw-rw-r-- 1 wruslan wruslan 10904 Dec 21 21:13 pkg_ada_dtstamp.ali
+-rw-rw-r-- 1 wruslan wruslan    45 Dec 21 21:13 pkg_ada_dtstamp.cswi
+-rw-rw-r-- 1 wruslan wruslan 31888 Dec 21 21:13 pkg_ada_dtstamp.o
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 pkg_ada_fprocessing.adb.stderr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 21 21:13 pkg_ada_fprocessing.adb.stdout
+-rw-rw-r-- 1 wruslan wruslan  5532 Dec 21 21:13 pkg_ada_fprocessing.ali
+-rw-rw-r-- 1 wruslan wruslan    45 Dec 21 21:13 pkg_ada_fprocessing.cswi
+-rw-rw-r-- 1 wruslan wruslan 10944 Dec 21 21:13 pkg_ada_fprocessing.o
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-file-processing/obj$ 
+

@@ -1,0 +1,6 @@
+2020-12-21 13:18:29.88247341958 Run ATIO.Set_Output (the_fhandle1);
+2020-12-21 13:18:29.88247343350 Everything after this will be written to the_fhandle1.
+2020-12-21 13:18:29.88247344628 Bismillah 3 times WRY.
+2020-12-21 13:18:29.88247345310 This is inside the file.
+2020-12-21 13:18:29.88247345950 Alhamdulillah 3 times WRY.
+2020-12-21 13:18:29.88247346658 Run ATIO.Close (the_fhandle1);
