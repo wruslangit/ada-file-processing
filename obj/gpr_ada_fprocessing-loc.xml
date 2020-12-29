@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>/home/wruslan/github/ada-file-processing/gpr_ada_fprocessing.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/wruslan/github/ada-file-processing/gpr_ada_fprocessing.gpr</vfs_project>
+      <vfs_file>/home/wruslan/github/ada-file-processing/src/main_ada_fprocessing.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
